@@ -81,7 +81,7 @@ ClassPass is an app for students to easily join a space where they can collabora
    * User can send messages or upload images and gifs.
 
 ## Wireframes
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/akheel-s/ClassChat-Project/blob/main/wireframes.png" width=600>
 
 <!-- ### [BONUS] Digital Wireframes & Mockups
 
