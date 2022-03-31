@@ -101,6 +101,7 @@ ClassPass is an app for students to easily join a space where they can collabora
 
 
 ### Networking
+Full list of network requests not seperated by screens
 - Read/GET Get the login information(username(email) password)
 ```
 func myMethod() {
