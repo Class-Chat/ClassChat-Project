@@ -88,10 +88,23 @@ ClassPass is an app for students to easily join a space where they can collabora
 ### [BONUS] Interactive Prototype -->
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+
+| Property     | Type      | Description     |
+| ------------- | ------------- | -------- |
+| courseId          | Long         | CRN (UC Merced specific) Course Code  |
+| name           | String         | Name of user  |
+| email           | String         |  Email of user |
+| password           | String         | Password for user |
+| message           | String         | Messagess on chatroom |
+| courseName           | String         | Name of the course |
+
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Read/GET Get the login information(username(email) password)
+- Create/POST Create a new message in chatroom
+- Create/POST New user registration
+- Create/POST User adds themselves to a class chatroom
+- Delete Leave chatroom for course
+
+
