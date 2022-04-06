@@ -27,8 +27,11 @@ ClassPass is an app for students to easily join a space where they can collabora
 
 **Required Must-have Stories**
 
-* User can login 
-* User can create a new account
+[x] must have homepage
+[x] must have login screen
+[x] must have sign-up page
+[] User can login 
+[] User can create a new account
 * User can upload photos
 * User can upload files
 * User can chat with other users
@@ -127,5 +130,11 @@ func myMethod() {
 - Create/POST New user registration
 - Create/POST User adds themselves to a class chatroom
 - Delete Leave chatroom for course
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/xlybGZRC6c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
