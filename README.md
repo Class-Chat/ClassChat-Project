@@ -142,4 +142,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/xlybGZRC6c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Sprint 2: April 12, 2022: 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/Rtwvz2idNV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
