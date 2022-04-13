@@ -30,8 +30,13 @@ ClassPass is an app for students to easily join a space where they can collabora
 [x] must have homepage
 [x] must have login screen
 [x] must have sign-up page
-[] User can login 
-[] User can create a new account
+
+Second Sprint (April 12, 2022)
+[x] user can access the settings page
+[x] user can access chatroom ID page
+
+
+
 * User can upload photos
 * User can upload files
 * User can chat with other users
