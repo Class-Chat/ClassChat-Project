@@ -1,0 +1,6 @@
+framework module Pods_ClassPass_ClassPassUITests {
+  umbrella header "Pods-ClassPass-ClassPassUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
