@@ -35,6 +35,11 @@ Second Sprint (April 12, 2022)
 [x] user can access the settings page
 [x] user can access chatroom ID page
 
+Third Sprint (April 19, 2022)
+[x] Start the FireBase for user authentication
+[x] Differently designed adding chatroom ID and Setting up all courses for the user
+[x] Finished creating all pages for the app
+
 
 
 * User can upload photos
@@ -147,6 +152,13 @@ Sprint 2: April 12, 2022:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/Rtwvz2idNV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Sprint 3: April 19, 2022: 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/m2Zbf8k7cd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
