@@ -164,7 +164,7 @@ Sprint 4: April 26, 2022:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/a/uRefbDD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![classpass](https://user-images.githubusercontent.com/75554919/165581711-a82a9f6c-410f-4ea4-b5a2-3c848f70c93b.gif)
 
 
 
